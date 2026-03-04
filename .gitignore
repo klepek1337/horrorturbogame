@@ -108,3 +108,17 @@ InitTestScene*.unity*
 MemoryCaptures/
 .DS_Store
 
+# Large texture files - should use Git LFS or external storage
+*.tif
+*.tiff
+*.tga
+*.exr
+*.hdr
+
+# Complete folders exported as unitypackage
+# FpsHorrorKit - entire kit will be in unitypackage
+/[Aa]ssets/[Ff]ps[Hh]orror[Kk]it/
+/[Aa]ssets/[Ff]ps[Hh]orror[Kk]it.meta
+# TutorialInfo - tutorial assets will be in unitypackage
+/[Aa]ssets/[Tt]utorial[Ii]nfo/
+/[Aa]ssets/[Tt]utorial[Ii]nfo.meta

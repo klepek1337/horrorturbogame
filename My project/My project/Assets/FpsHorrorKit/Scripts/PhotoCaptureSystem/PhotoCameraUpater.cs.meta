@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: fb0bca95446759c4694f9c73ff044f3b
-AssetOrigin:
-  serializedVersion: 1
-  productId: 310075
-  packageName: FPS Horror Game Starter Pack
-  packageVersion: 1.0
-  assetPath: Assets/FpsHorrorKit/Scripts/PhotoCaptureSystem/PhotoCameraUpater.cs
-  uploadId: 751147
