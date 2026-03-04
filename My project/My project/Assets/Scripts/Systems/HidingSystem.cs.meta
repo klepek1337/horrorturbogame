@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f1b97252a96fa9a4e9a86abd59e5680b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/Systems/HidingSystem.cs
+  uploadId: 751147

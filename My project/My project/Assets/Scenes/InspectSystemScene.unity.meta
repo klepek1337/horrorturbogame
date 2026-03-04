@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83a879d053f3072419a3f5feede0ff90
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scenes/InspectSystemScene.unity
+  uploadId: 751147

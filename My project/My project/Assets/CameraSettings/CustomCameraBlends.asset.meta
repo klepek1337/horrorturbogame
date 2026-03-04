@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ddd60b26173992b41bc818275ad232d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/CameraSettings/CustomCameraBlends.asset
+  uploadId: 751147

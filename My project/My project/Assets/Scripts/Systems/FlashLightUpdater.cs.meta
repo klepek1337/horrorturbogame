@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 38fa93c09ae322c45889bbac2f92d5bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventoryData: {fileID: 11400000, guid: 0d5632219fdadc64190585de57bf1ea7, type: 2}
+  - flashLightBattery: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/Systems/FlashLightUpdater.cs
+  uploadId: 751147

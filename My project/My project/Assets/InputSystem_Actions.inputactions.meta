@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 35845fe01580c41289b024647b1d1c53
+guid: 332d2a57b5d2bb444b362ace71b48904
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -12,3 +12,10 @@ ScriptedImporter:
   wrapperCodePath: 
   wrapperClassName: 
   wrapperCodeNamespace: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/InputSystem_Actions.inputactions
+  uploadId: 751147

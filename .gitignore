@@ -116,7 +116,8 @@ MemoryCaptures/
 *.hdr
 
 # Complete folders exported as unitypackage
-# FpsHorrorKit - entire kit will be in unitypackage
+# FpsHorrorKit - only static assets (models, textures, audio) in unitypackage
+# Dynamic files (Scenes, Prefabs, Scripts, Materials, Shaders) are now in Assets/ root and WILL be in repo
 **/FpsHorrorKit/
 **/FpsHorrorKit.meta
 # TutorialInfo - tutorial assets will be in unitypackage

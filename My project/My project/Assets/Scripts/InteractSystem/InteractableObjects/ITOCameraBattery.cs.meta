@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8e7eab6b99f40d94d9aa33e44f1e01fc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/InteractSystem/InteractableObjects/ITOCameraBattery.cs
+  uploadId: 751147

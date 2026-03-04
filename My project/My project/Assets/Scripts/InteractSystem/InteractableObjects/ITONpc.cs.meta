@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fbe38d367788fe14eac3dee0d5713aec
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/InteractSystem/InteractableObjects/ITONpc.cs
+  uploadId: 751147

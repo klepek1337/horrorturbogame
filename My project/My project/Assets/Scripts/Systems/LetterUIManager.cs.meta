@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 380d6295d08cf6247a3b838226e9a52f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/Systems/LetterUIManager.cs
+  uploadId: 751147

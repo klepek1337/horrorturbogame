@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd9ce1c6d13539d4c9655f2fbbdc2675
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/CameraSettings/HeadBob.asset
+  uploadId: 751147
