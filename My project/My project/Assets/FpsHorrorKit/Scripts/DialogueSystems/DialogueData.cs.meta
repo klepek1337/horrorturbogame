@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 34a9d1f6e1e346e4e9ba87ea88ac40b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: bf25b2beb5b4a704ab01d3e27a97ed27, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/DialogueSystems/DialogueData.cs
+  uploadId: 751147

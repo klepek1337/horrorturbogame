@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 3d0e23bf22cf5b74284808be2e55d1e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventoryData: {fileID: 11400000, guid: 0d5632219fdadc64190585de57bf1ea7, type: 2}
+  - photoCamera: {instanceID: 0}
+  - renderTexture: {fileID: 8400000, guid: e1cb16c210bd02146951651a5cfa0abc, type: 2}
+  - photoAlbum: {fileID: 11400000, guid: 25b78ed064853064ca85f107dc785885, type: 2}
+  - photoCanvas: {instanceID: 0}
+  - displayImage: {instanceID: 0}
+  - nextPhotoButton: {instanceID: 0}
+  - previousPhotoButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/PhotoCaptureSystem/PhotoCaptureSystem.cs
+  uploadId: 751147

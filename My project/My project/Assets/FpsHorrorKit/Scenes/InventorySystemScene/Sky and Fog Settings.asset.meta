@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e281117656be9d7489832f72245712c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scenes/InventorySystemScene/Sky and Fog Settings.asset
+  uploadId: 751147

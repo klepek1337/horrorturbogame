@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 05c04ef09585254449577d721dadaa2c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scenes/DoorSystemsScene.unity
+  uploadId: 751147

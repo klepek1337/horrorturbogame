@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc8ba770a8a65524994af3ff62d65b4c, type: 3}
+  m_Name: Lantern
+  m_EditorClassIdentifier: 
+  itemName: Lantern
+  energyLevel: 98.5536
+  icon: {fileID: 21300000, guid: 3f0d223ca6858fe48adecdd90fa5dd6a, type: 3}
+  isStackable: 0
+  maxStackSize: 1
+  hasItem: 0
+  canUseItem: 0
+  isUsingItem: 0
+  isEnergyEnough: 1

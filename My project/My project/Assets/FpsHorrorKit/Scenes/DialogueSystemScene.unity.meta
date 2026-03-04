@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab3fb60fc7f3f4747987f05a345c0af9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scenes/DialogueSystemScene.unity
+  uploadId: 751147
