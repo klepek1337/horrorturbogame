@@ -125,7 +125,4 @@ MemoryCaptures/
 **/TutorialInfo.meta
 *FpsHorrorKit.unitypackage
 *TutorialInfo.unitypackage
-
-# DemonDoll (Assets) - dossier complet ignoré
-**/DemonDoll/
-**/DemonDoll.meta
+*Demondoll
