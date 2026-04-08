@@ -125,4 +125,10 @@ MemoryCaptures/
 **/TutorialInfo.meta
 *FpsHorrorKit.unitypackage
 *TutorialInfo.unitypackage
-*Demondoll
+
+# DemonDoll - ignore all except Prefab
+**/DemonDoll/*
+**/DemonDoll.meta
+!**/DemonDoll/Prefab/
+!**/DemonDoll/Prefab.meta
+!**/DemonDoll/Prefab/**
