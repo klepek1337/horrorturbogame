@@ -27478,6 +27478,25 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff5caca37e2ec244786caed5adb53dd0, type: 3}
+--- !u!1 &1052573775 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7186209617162079020, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
+  m_PrefabInstance: {fileID: 3564729898732685793}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1052573782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1052573775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56f1e921821f2354a9fd5cea3d7f0a0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FpsHorrorKit.ITOWinDoor
+  winSceneName: WinScene
+  interactText: 'Escape [E]'
 --- !u!1001 &1052585524
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63109,6 +63128,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5420495122762644920, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8911569000213609485, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
       propertyPath: m_Name
       value: OutDoor_1
@@ -63116,8 +63139,19 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8911569000213609485, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4114826602213197802}
+    - targetCorrespondingSourceObject: {fileID: 7186209617162079020, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1052573782}
   m_SourcePrefab: {fileID: 100100000, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
+--- !u!1 &3564729898732685794 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8911569000213609485, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
+  m_PrefabInstance: {fileID: 3564729898732685793}
+  m_PrefabAsset: {fileID: 0}
 --- !u!33 &3625148970161313162
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -63467,6 +63501,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4296552845813745816, guid: 2f0fe09158103e545adb2a10f42fbb43, type: 3}
   m_PrefabInstance: {fileID: 3564729898732685793}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4114826602213197802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3564729898732685794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56f1e921821f2354a9fd5cea3d7f0a0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ITOWinDoor
+  winSceneName: WinScene
+  interactText: 'Escape [E]'
 --- !u!4 &4314642160706934477
 Transform:
   m_ObjectHideFlags: 0
@@ -66434,3 +66482,4 @@ SceneRoots:
   - {fileID: 928706519}
   - {fileID: 2074506220}
   - {fileID: 1091712806}
+  - {fileID: 2130391546}
